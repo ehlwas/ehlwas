@@ -1,6 +1,6 @@
-# Hi, I'm Ram Kenneth Tadong
+# Hi, I'm Ram Ken
 
-Full Stack Developer based in the UAE with a strong front-end focus. I build web applications, SaaS platforms, marketing systems, and interactive products using modern JavaScript, TypeScript, React, Laravel, and related technologies.
+Software Engineer / Full Stack Developer based in the UAE with a strong front-end focus. I build web applications, SaaS platforms, marketing systems, and interactive products using modern JavaScript, TypeScript, React, Laravel, and related technologies.
 
 I enjoy taking ideas from concept to production — from UI/UX implementation and API integration to database design, deployment, performance optimization, and product iteration.
 
